@@ -26,15 +26,15 @@ body {
 }
 .arrow {
   display: flex;
-  justify-content: flex-start;
+  align-items: flex-start;
   margin-top: 1.6rem;
   margin-left: 2rem;
 }
 .arow {
-  height: 1.3rem;
-  width: 1.3rem;
-  margin-bottom: 0.7rem;
-  padding-right: 0.5rem;
+  height: 1.4rem;
+  width: 1.4rem;
+  margin-top: -0.3rem;
+  padding-right: 0.4rem;
 }
 p {
   font-size: 0.7rem;
